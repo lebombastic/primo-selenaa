@@ -1,1 +1,1 @@
-# primo-selenaa
+# Built with [primo](https://primo.so)
